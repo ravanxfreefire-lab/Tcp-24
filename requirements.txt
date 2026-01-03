@@ -1,0 +1,17 @@
+requests
+psutil
+PyJWT
+protobuf>=5.26.1
+protobuf-decoder
+pycryptodome
+urllib3
+httpx
+aiohttp
+pytz
+flask
+cfonts
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+gspread
+aiogram
